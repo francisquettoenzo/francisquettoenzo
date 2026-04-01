@@ -1,8 +1,5 @@
-## Enzo Francisquetto 💻
-
-Software Development Student (ADS) | Backend Engineering | Systems Security
 <div align="center">
-  <h1> Enzo Francisquetto </h1>
+  <h1> Enzo Francisquetto 💻 </h1>
 </div>
 
 <p align="center" ><strong>ADS Student | Backend Development | Automation & AI Systems</strong>
