@@ -43,21 +43,21 @@ My interest in technology goes beyond theory. I actively explore automation, art
 ### Languages:
 <p>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,py,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=py,bash,html,css,js" />
   </a>
 </p>
 
 ### Frameworks:
 <p>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,spring,nodejs,flask" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,flask,jest" />
   </a>
 </p>
 
 ### Tools, Environments and Databases
 <p>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vercel,supabase," />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vercel,mysql," />
   </a>
 </p>
 
