@@ -50,7 +50,7 @@ My interest in technology goes beyond theory. I actively explore automation, art
 ### Frameworks:
 <p>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,spring,nodejs" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,spring,nodejs,flask" />
   </a>
 </p>
 
