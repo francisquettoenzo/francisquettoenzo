@@ -43,7 +43,7 @@ My interest in technology goes beyond theory. I actively explore automation, art
 ### Languages:
 <p>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=py,bash,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=py,bash,html,css,js,typescript" />
   </a>
 </p>
 
